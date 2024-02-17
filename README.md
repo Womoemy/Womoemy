@@ -1,5 +1,5 @@
 #### 👋 Hi, 
-I’m Womo Ebiobowei. I'm a Software Developer from Nigeria.
+I’m Womo Ebiobowei. I'm a Frontend Developer (React).
 - 👀 I’m interested in building beautiful projects with second-to-none user experiences.
 - 🌱 I’m currently searching for my next Frontend role.
 - 💞️ I’m looking to collaborate on cool projects driving change in personal finance, health and growth written in NextJS, TypeScript and React.
